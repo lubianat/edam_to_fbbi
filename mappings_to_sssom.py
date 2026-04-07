@@ -82,7 +82,7 @@ for metadata_entry in metadata:
     new_df["confidence"] = metadata_entry["confidence"]
     new_df["comment"] = metadata_entry["comment"]
     new_df["author_id"] = global_metadata["author_id"]
-    dfs.append(df)
+    dfs.append(new_df)
 
 # Combine all dataframes into one
 
