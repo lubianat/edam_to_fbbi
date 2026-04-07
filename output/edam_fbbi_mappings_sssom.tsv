@@ -1,0 +1,48 @@
+edam_id	edam_label	fbbi_id	fbbi_label	matching_synonym
+http://edamontology.org/topic_3382	Imaging	http://purl.obolibrary.org/obo/FBbi_00000222	imaging method	
+http://edamontology.org/topic______Cryo_electron_microscopy	Cryo electron microscopy	http://purl.obolibrary.org/obo/FBbi_00100014	cryogenic transmission electron microscopy	
+http://edamontology.org/topic______X_ray_imaging	X-ray imaging	http://purl.obolibrary.org/obo/FBbi_00001000	radiography	
+http://edamontology.org/topic__RBZsLMTdyuEDtVe2fge61l0	Scanning electron microscopy	http://purl.obolibrary.org/obo/FBbi_00000257	scanning electron microscopy (SEM)	
+http://edamontology.org/topic__RXLeVr0cHSXzTSRyO5zwZD	Scanning transmission electron microscopy	http://purl.obolibrary.org/obo/FBbi_00000380	scanning-transmission electron microscopy	
+http://edamontology.org/topic_Widefield_microscopy	Widefield fluorescence microscopy	http://purl.obolibrary.org/obo/FBbi_00100013	wide-field fluorescence microscopy	
+http://edamontology.org/topic__RtBCcu7zJiS0phrbR2HzAI	Phase-contrast microscopy	http://purl.obolibrary.org/obo/FBbi_00000247	phase contrast microscopy	
+http://edamontology.org/topic__RByvmgDpAo4FOrMdvTm1gwR	Serial block-face scanning electron microscopy	http://purl.obolibrary.org/obo/FBbi_00000585	serial block face SEM (SBFSEM)	
+http://edamontology.org/topic__Rn8MnorStmqIkNlAVZWBc0	Confocal fluorescence microscopy	http://purl.obolibrary.org/obo/FBbi_00000252	single-spot confocal microscopy	
+http://edamontology.org/topic__RByvmgDpAo4FOrMdvTm1gwR	Serial block-face scanning electron microscopy	http://purl.obolibrary.org/obo/FBbi_00100017	cryogenic serial block face scanning electron microscopy	
+http://edamontology.org/topic__R9O3HmIAjoN5IqXXXRukzzr	Electron tomography	http://purl.obolibrary.org/obo/FBbi_00001003	X-ray tomography	
+http://edamontology.org/topic_____Raman_imaging	Raman imaging	http://purl.obolibrary.org/obo/FBbi_00000370	coherent Raman anti-Stokes microscopy	
+http://edamontology.org/topic______X_ray_imaging	X-ray imaging	http://purl.obolibrary.org/obo/FBbi_00001003	X-ray tomography	
+http://edamontology.org/topic______X_ray_imaging	X-ray imaging	http://purl.obolibrary.org/obo/FBbi_00001001	X-ray radiography	
+http://edamontology.org/topic_____Near-field_scanning_optical_microscopy	Near-field scanning optical microscopy	http://purl.obolibrary.org/obo/FBbi_00000348	nearfield scanning optical microscopy (ANSOM)	
+http://edamontology.org/topic_____Total_internal_reflection_fluorescence_microscopy	Total internal reflection fluorescence microscopy	http://purl.obolibrary.org/obo/FBbi_00000617	evanescent wave microscopy	
+http://edamontology.org/topic__RxfmHE99gOkUOOML5krfsJ	Computed tomography	http://purl.obolibrary.org/obo/FBbi_00001002	X-ray computed tomography	ct scan, cat scan
+http://edamontology.org/topic__RDCjx86atJP685sX1zrE2ia	Electron cryotomography	http://purl.obolibrary.org/obo/FBbi_00100015	cryogenic electron tomography	cryo-electron tomography
+http://edamontology.org/topic__RDCjx86atJP685sX1zrE2ia	Electron cryotomography	http://purl.obolibrary.org/obo/FBbi_00100015	cryogenic electron tomography	cryo-electron tomography
+http://edamontology.org/topic__R9zg34pnGmTyzPidJj9vfJt	Focused ion beam scanning electron microscopy	http://purl.obolibrary.org/obo/FBbi_00050000	focussed ion beam scanning electron microscopy (FIB-SEM)	fib-sem
+http://edamontology.org/topic__RBNfUSYBOKUapWrsyPMMTkw	Scanning electron cryomicroscopy	http://purl.obolibrary.org/obo/FBbi_00100016	cryogenic scanning electron microscopy	cryo-scanning electron microscopy
+http://edamontology.org/topic__RBNfUSYBOKUapWrsyPMMTkw	Scanning electron cryomicroscopy	http://purl.obolibrary.org/obo/FBbi_00100016	cryogenic scanning electron microscopy	cryo-scanning electron microscopy
+http://edamontology.org/topic___Fluorescence_lifetime_imaging	Fluorescence lifetime imaging microscopy	http://purl.obolibrary.org/obo/FBbi_00000368	fluorescence lifetime imaging microscopy	flim
+http://edamontology.org/topic______Optical_Coherence_Tomography	Optical coherence tomography	http://purl.obolibrary.org/obo/FBbi_00000371	OCT	
+http://edamontology.org/topic__RBNfUSYBOKUapWrsyPMMTkw	Scanning electron cryomicroscopy	http://purl.obolibrary.org/obo/FBbi_00100016	cryogenic scanning electron microscopy	
+http://edamontology.org/topic__RBNfUSYBOKUapWrsyPMMTkw	Scanning electron cryomicroscopy	http://purl.obolibrary.org/obo/FBbi_00100016	cryogenic scanning electron microscopy	
+http://edamontology.org/topic___Fluorescence_recovery_after_photobleaching	Fluorescence recovery after photobleaching	http://purl.obolibrary.org/obo/FBbi_00000366	FRAP	
+http://edamontology.org/topic___Foerster_resonance_energy_transfer	Förster resonance energy transfer	http://purl.obolibrary.org/obo/FBbi_00000367	FRET	
+http://edamontology.org/topic__RNFOzq5E0ZVBh5Euhn06rn	DIC microscopy	http://purl.obolibrary.org/obo/FBbi_00000245	differential interference contrast microscopy	
+http://edamontology.org/topic__RDCjx86atJP685sX1zrE2ia	Electron cryotomography	http://purl.obolibrary.org/obo/FBbi_00100015	cryogenic electron tomography	
+http://edamontology.org/topic__RDCjx86atJP685sX1zrE2ia	Electron cryotomography	http://purl.obolibrary.org/obo/FBbi_00100015	cryogenic electron tomography	
+http://edamontology.org/topic_Light-sheet_microscopy	Light-sheet microscopy	http://purl.obolibrary.org/obo/FBbi_00000369	selective plane illumination fluorescence microscopy	
+http://edamontology.org/topic__R8nlu8VCuL5nvBFgOaGNHgT	Polarized light microscopy	http://purl.obolibrary.org/obo/FBbi_00000248	polarization microscopy	
+http://edamontology.org/topic_3452	Tomography	http://purl.obolibrary.org/obo/FBbi_00001004	tomography	
+http://edamontology.org/topic__RxfmHE99gOkUOOML5krfsJ	Computed tomography	http://purl.obolibrary.org/obo/FBbi_00001005	computed tomography	
+http://edamontology.org/topic_Microscopy	Microscopy	http://purl.obolibrary.org/obo/FBbi_00000241	microscopy	
+http://edamontology.org/topic_0611	Electron microscopy	http://purl.obolibrary.org/obo/FBbi_00000256	electron microscopy	
+http://edamontology.org/topic__R7LElbFkBgKS401YKsVtNck	Transmission electron microscopy	http://purl.obolibrary.org/obo/FBbi_00000258	transmission electron microscopy	
+http://edamontology.org/topic_3385	Light microscopy	http://purl.obolibrary.org/obo/FBbi_00000345	light microscopy	
+http://edamontology.org/topic_Fluorescent_microscopy	Fluorescence microscopy	http://purl.obolibrary.org/obo/FBbi_00000246	fluorescence microscopy	
+http://edamontology.org/topic___Fluorescence_lifetime_imaging	Fluorescence lifetime imaging microscopy	http://purl.obolibrary.org/obo/FBbi_00000368	fluorescence lifetime imaging microscopy	
+http://edamontology.org/topic__R9Cmje2ZUXyDW6aQAvFhwSM	Confocal microscopy	http://purl.obolibrary.org/obo/FBbi_00000251	confocal microscopy	
+http://edamontology.org/topic__RBKlmE9DGTZwEwxw0juThGg	Multi-photon microscopy	http://purl.obolibrary.org/obo/FBbi_00000255	multi-photon microscopy	
+http://edamontology.org/topic__R89wYXZ2735GXdn4m4GOT9n	Dark-field microscopy	http://purl.obolibrary.org/obo/FBbi_00000244	dark-field microscopy	
+http://edamontology.org/topic__RDdX0TswBVhmWiS1dI3pghN	Bright-field microscopy	http://purl.obolibrary.org/obo/FBbi_00000243	bright-field microscopy	
+http://edamontology.org/topic_____Atomic_force_microscopy	Atomic force microscopy	http://purl.obolibrary.org/obo/FBbi_00000259	atomic force microscopy	
+http://edamontology.org/topic_____X-ray_microscopy	X-ray microscopy	http://purl.obolibrary.org/obo/FBbi_00000260	X-ray microscopy	
