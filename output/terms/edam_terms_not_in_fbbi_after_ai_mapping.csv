@@ -1,0 +1,94 @@
+subset,id,label,exactSynonyms,relatedSynonyms,definition,comments,seeAlsos,wikipedia
+topic,http://edamontology.org/topic_3444,Magnetic resonance imaging,"MRI, MRI",,,Technique using magnetic fields and radio waves to generate images of organs.,,"http://bioportal.bioontology.org/ontologies/NCIT/?p=classes&conceptid=http%3A%2F%2Fncicb.nci.nih.gov%2Fxml%2Fowl%2FEVS%2FThesaurus.owl%23C16809&jump_to_nav=true, https://en.wikipedia.org/wiki/Magnetic_resonance_imaging"
+topic,http://edamontology.org/topic__R9WwNqEL8rvkyBPk7GkDTYh,Photoacoustic tomography,"PAT, PAT",,,,,"https://en.wikipedia.org/wiki/Photoacoustic_imaging, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4311576"
+topic,http://edamontology.org/topic__RBkRgSi7js0c70kjiPgYTgR,Single-photon emission computed tomography,,,,,,https://en.wikipedia.org/wiki/Single-photon_emission_computed_tomography
+topic,http://edamontology.org/topic__RDos3h5yRfjhLUcOImDOFgB,Positron emission tomography,,,,,,https://en.wikipedia.org/wiki/Positron_emission_tomography
+topic,http://edamontology.org/topic______Computed_microtomography,X-ray microtomography,"Computed microtomography, High-resolution micro-CT, Micro computed tomography, Micro-computed tomography, micro CT, micro-CT, µCT",,,,,"https://en.wikipedia.org/wiki/X-ray_microtomography, https://en.wikipedia.org/wiki/X-ray_microtomography, https://en.wikipedia.org/wiki/X-ray_microtomography, https://en.wikipedia.org/wiki/X-ray_microtomography, https://en.wikipedia.org/wiki/X-ray_microtomography, https://en.wikipedia.org/wiki/X-ray_microtomography, https://en.wikipedia.org/wiki/X-ray_microtomography"
+topic,http://edamontology.org/topic_____Array_tomography,Array tomography,,,,Can be just EM or anything. But may also combine optical and electron microscopy of ultra thin serial sections.,volumetric microscopy method based on physical serial sectioning. Can be appyied in LM and EM. Work comment: should we even remove it from underneath Tomography and instead put it somewhere to Image Prep?,https://doi.org/10.1016/j.neuron.2007.06.014
+topic,http://edamontology.org/topic_____Micro-optical_sectioning_tomography,Optical sectioning tomography,,,,,,
+topic,http://edamontology.org/topic_____Soft_x-ray_tomography,Soft X-ray tomography,SXT,,,,,
+topic,http://edamontology.org/topic______Optical_Projection_Tomography,Optical projection tomography,"OPT, OPT, Optical tomography, Optical tomography",,,OPT is a form of tomography using visible light to generate 3D image volumes based on absorption (label-free) or fluorescence.,,"https://en.wikipedia.org/wiki/Optical_projection_tomography, https://en.wikipedia.org/wiki/Optical_tomography, https://en.wikipedia.org/wiki/Optical_projection_tomography, https://en.wikipedia.org/wiki/Optical_tomography"
+topic,http://edamontology.org/topic______Optical_Projection_Tomography,Optical projection tomography,"OPT, OPT, Optical tomography, Optical tomography",,,OPT is a form of tomography using visible light to generate 3D image volumes based on absorption (label-free) or fluorescence.,,"https://en.wikipedia.org/wiki/Optical_projection_tomography, https://en.wikipedia.org/wiki/Optical_tomography, https://en.wikipedia.org/wiki/Optical_projection_tomography, https://en.wikipedia.org/wiki/Optical_tomography"
+topic,http://edamontology.org/topic_High_content_screening,High-content analysis,"HCA, High-content imaging",,,,"In simple terms, high-content screening (HCS) is the combination of high-throughput screening (HTS) applied to high-content analysis (HCA)., In simple terms, high-content screening (HCS) is the combination of high-throughput screening (HTS) applied to high-content analysis (HCA).","https://en.wikipedia.org/wiki/High-content_screening, https://en.wikipedia.org/wiki/High-content_screening"
+topic,http://edamontology.org/topic______Single_Particle_Cryo-Electron_microscopy,Single particle cryo-electron microscopy,,,,,,
+topic,http://edamontology.org/topic__R8Ss4wIFt90wZ1yjFLfXyPM,Correlative light and electron microscopy,"CLEM, Correlative light-electron microscopy",,,Correlative light and electron microscopy is the combination of light microscopy (typically fluorescence microscopy) and electron microscopy of the same sample.,,"https://en.wikipedia.org/wiki/Correlative_light-electron_microscopy, https://en.wikipedia.org/wiki/Correlative_light-electron_microscopy"
+topic,http://edamontology.org/topic______Sample_thinning,Sample thinning,,,,,"Work comments:
+Xavier Heiligenstein
+20th March 2019
+
+This contains the sub categories: microtomy, ultra-microtomy, blotting, vibrating blade sectioning, cryo-microtomy, oscillating, ablation
+
+Matthia.Karreman
+20th March 2019
+
+Examples of sample thinning
+
+    blotting (as in vitrobot)
+    microtomy (ultra-, cryo- (ultra), vibratome, oscilating knife, )
+    ablation (Focus ion beam, laser)
+
+Laure
+16th October 2019
+
+I have created them but as I am no expert, does it work?
+
+Martin: IMHO not a generally used term. See FIB (Ablation), Sectioning
+Christos: Diff between sectining and thinning: sectioning removes. But results otherwise same.
+M & C: Terminology is not (yet) standardised around these
+
+Let's get back to it with definitions and relations, ...",
+topic,http://edamontology.org/topic______Ablation,Ablation,,,,,,
+topic,http://edamontology.org/topic______Blotting,Blotting,,,,,Work comment: needs to be more specific (here within EM),
+topic,http://edamontology.org/topic______Microtomy,Microtomy,,,,,,
+topic,http://edamontology.org/topic_Super-resolution_microscopy,Super-resolution microscopy,"SR microscopy, SRM",,,Group of microscopy techniques that circumvent the diffration limit and therefore allow for a greater spatial resolution  limit.,"There are rare exceptions of super-resolution microscopy, such as scanning near-field optical microscopy (SNOM), that do not necessarily rely on fluorescence., There are rare exceptions of super-resolution microscopy, such as scanning near-field optical microscopy (SNOM), that do not necessarily rely on fluorescence.","https://en.wikipedia.org/wiki/Super-resolution_microscopy, https://en.wikipedia.org/wiki/Super-resolution_microscopy"
+topic,http://edamontology.org/topic__R8oQpUEjKZjNQCTB4x3JQuJ,Single molecule localisation microscopy,"SMLM, Single molecule localization microscopy",,,"SMLM is based on a temporal separation of the emission of fluorescent molecules, allowing a fitting and precise localisation of these molecules.",,"https://en.wikipedia.org/wiki/Super-resolution_microscopy#Localization_microscopy, https://en.wikipedia.org/wiki/Super-resolution_microscopy#Localization_microscopy"
+topic,http://edamontology.org/topic__RC91JqkkQnsmvg8zuG6Td7q,Structured illumination microscopy,SIM,,,A patterned illumination interferes with the sample and creates moire fringes which are further processed by an algorithm to increase spatial resolution.,Structured illumination microscopy includes also techniques that do not rely on fluorescence.,https://en.wikipedia.org/wiki/Super-resolution_microscopy#Structured_illumination_microscopy_(SIM)
+topic,http://edamontology.org/topic__RMCSMqSNvOTurvW2FV8tjN,Stimulated emission depletion microscopy,STED,,,An increase in spatial resolution is obtained thanks to stimulated emission properties of fluorophores illuminated simultaneously by two lasers.,,https://en.wikipedia.org/wiki/Super-resolution_microscopy#Deterministic_functional_techniques
+topic,http://edamontology.org/topic______Deconvolution_widefield_microscopy,Deconvolution widefield microscopy,,,,,,
+topic,http://edamontology.org/topic___Fluctuation_based_microscopy,Fluctuation based microscopy,,,,,,
+topic,http://edamontology.org/topic___Fluorescence_correlative_spectroscopy,Fluorescence correlation spectroscopy,FCS,,,"FCS measures fluctuations of fluorescence in a volume, providing after analysis physical parameters of the sample such as diffusion coefficient or concentration.",,https://en.wikipedia.org/wiki/Fluorescence_correlation_spectroscopy
+topic,http://edamontology.org/topic___Image_correlation_spectroscopy,Image correlation spectroscopy,ICS,,,,,
+topic,http://edamontology.org/topic______Fluorescence,Fluorescence,,,,,,
+topic,http://edamontology.org/topic______Image_Scanning_Microscopy,Image scanning microscopy,ISM,,,,,
+topic,http://edamontology.org/topic______Airyscan,Airyscan,,,,,,
+topic,http://edamontology.org/topic______Re-scan_confocal_microscopy,Re-scan confocal microscopy,"RCM, Rescan",,,,,
+topic,http://edamontology.org/topic______Photoablation,Photoablation,,,,This technique allows the selective cutting of parts of samples without thermal damage.,,
+topic,http://edamontology.org/topic______Ratiometric_imaging,Ratiometric imaging,,,,,,
+topic,http://edamontology.org/topic__R7Vn7GbwtqVvGWNAMGdcNW1,Point-scanning microscopy,,,,Microscopy techniques relying on the point by point imaging of the entire sample. This is typically performed with point illumination of the sample.,,
+topic,http://edamontology.org/topic__R9P5gEAm1wic4R2PcZ7ZpPA,Transmission light microscopy,,,,Techniques in microscopy in which the sample is placed between the illumination source and the observer or recording device.,,
+topic,http://edamontology.org/topic______Phase_imaging,Phase imaging,,,,,,https://en.wikipedia.org/wiki/Ptychography
+topic,http://edamontology.org/topic______Quantitative_phase_imaging,Quantitative phase imaging,,,,,,https://en.wikipedia.org/wiki/Quantitative_phase-contrast_microscopy
+topic,http://edamontology.org/topic__RBsSZve5PnQFO3scMDWo9f0,Array-based detection microscopy,,,,,,
+topic,http://edamontology.org/topic_____Interferometric_microscopy,Interferometric microscopy,,,,,,"https://en.wikipedia.org/wiki/Interference_reflection_microscopy, https://en.wikipedia.org/wiki/Interferometric_microscopy"
+topic,http://edamontology.org/topic_____Interferometric_microscopy,Interferometric microscopy,,,,,,"https://en.wikipedia.org/wiki/Interference_reflection_microscopy, https://en.wikipedia.org/wiki/Interferometric_microscopy"
+topic,http://edamontology.org/topic_____Light_field_microscopy,Light field microscopy,,,,,,https://en.wikipedia.org/wiki/Light_field_microscopy
+topic,http://edamontology.org/topic_____Non-linear_microscopy,Non-linear microscopy,,,,,,
+topic,http://edamontology.org/topic_____Second-harmonic_imaging_microscopy,Second-harmonic imaging microscopy,"SHIM, Second harmonic generation (SHG)",,,,,
+topic,http://edamontology.org/topic______Photomanipulation,Photomanipulation,,,,,,
+topic,http://edamontology.org/topic______Laser_microdissection,Laser microdissection,,,,,,https://en.wikipedia.org/wiki/Laser_capture_microdissection
+topic,http://edamontology.org/topic______Photoactivation,Photoactivation,,,,,,https://en.wikipedia.org/wiki/Photoactivatable_fluorescent_protein
+topic,http://edamontology.org/topic______Stereoscopy,Stereoscopy,,,,Stereoscopy is a non-digital technique creating the illusion of depth in an image.,,https://en.wikipedia.org/wiki/Stereoscopy
+topic,http://edamontology.org/topic_____Force_microscopy,Force microscopy,,,,,,
+topic,http://edamontology.org/topic_____Photon_force_microscopy,Photonic force microscopy,PFM,,,,,https://en.wikipedia.org/wiki/Photonic_force_microscope
+topic,http://edamontology.org/topic_____Traction_force_microscopy,Traction force microscopy,,,,,,https://en.wikipedia.org/wiki/Traction_force_microscopy
+topic,http://edamontology.org/topic______Self-adjusting_microscopy,Adaptive microscopy,,,,,Intelligent microscopy uses artificial intelligence; smart microscopy is using a defined algorithm to adapt microscope configuration or imaging parameters. (Robert Haase & consensus),
+topic,http://edamontology.org/topic__RBHw300pzIYcttGsAmIZvk5,Ultrasonography,"Medical ultrasound, diagnostic sonography",,,,,"https://en.wikipedia.org/wiki/Medical_ultrasound, https://en.wikipedia.org/wiki/Medical_ultrasound"
+topic,http://edamontology.org/topic__RBNoPZIOvBhdWGe8mFNpoWQ,Fixed sample imaging,,,,Imaging of biological tissues preserved by chemicals or temperature.,,https://en.wikipedia.org/wiki/Fixation_(histology)
+topic,http://edamontology.org/topic__RBfI2XgIsxcfKonPPluKAhK,Spectroscopy,,,,"Spectroscopy refers to the study of how radiated energy and matter interact. The energy is absorbed by the matter, creating an excited state. The interaction creates some form of electromagnetic waves (EM), often in the form of visible light, such as sparks.
+
+Spectrometry deals with the measurement of a specific spectrum; essentially the application of spectroscopy so that there are quantifiable results that can then be assessed.",,https://en.wikipedia.org/wiki/Spectroscopy
+topic,http://edamontology.org/topic_0593,Nuclear magnetic resonance spectroscopy,NMR,,,,,https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance_spectroscopy
+topic,http://edamontology.org/topic_____Mass_spectrometry_imaging,Mass spectrometry imaging,"MSI, MSI",,,,,"https://en.wikipedia.org/wiki/MALDI_imaging, https://en.wikipedia.org/wiki/Mass_spectrometry_imaging"
+topic,http://edamontology.org/topic_____Mass_spectrometry_imaging,Mass spectrometry imaging,"MSI, MSI",,,,,"https://en.wikipedia.org/wiki/MALDI_imaging, https://en.wikipedia.org/wiki/Mass_spectrometry_imaging"
+topic,http://edamontology.org/topic______Fourier-transform_infrared_spectroscopy,Fourier-transform infrared spectroscopy,FTIR,,,,,https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy
+topic,http://edamontology.org/topic__RDvZSyRAcr8fonKvKdVoXw2,Bioluminescence imaging,"BLI, BLI",,,Recording of native light emission by organism expressing a light emitting molecule.,,"http://bioportal.bioontology.org/ontologies/NCIT?p=classes&conceptid=http%3A%2F%2Fncicb.nci.nih.gov%2Fxml%2Fowl%2FEVS%2FThesaurus.owl%23C62655, https://en.wikipedia.org/wiki/Bioluminescence_imaging"
+topic,http://edamontology.org/topic__RL4rPCXlIu9uzNrGcbcSNp,Live sample imaging,,,,"imaging of samples in conditions that keeps them alive, allowing the study of dynamic changes.",,https://en.wikipedia.org/wiki/Live_cell_imaging
+topic,http://edamontology.org/topic__R7WRbf9Y8ySw9QWPwAjzcUa,In-vitro imaging,,,,Imaging of tissues fixed or kept in physiological but artificial conditions.,,https://en.wikipedia.org/wiki/In_vitro
+topic,http://edamontology.org/topic__R8XUtD89JCyeUaaVebe9Mkw,In-vivo imaging,,,,imaging in the living body of a plant or an animal,,https://en.wikipedia.org/wiki/In_vivo
+topic,http://edamontology.org/topic_____Intravital_imaging,Intravital imaging,,,,"Imaging of live processes performed within living animals, typically by multi-photon imaging techniques.",,"http://bioportal.bioontology.org/ontologies/MESH/?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FMESH%2FD000069416, https://en.wikipedia.org/wiki/Intravital_microscopy"
+topic,http://edamontology.org/topic__RB4unXFUWvdBe91ihVAA9rR,Ex-vivo imaging,,,,,,https://en.wikipedia.org/wiki/Ex_vivo
+topic,http://edamontology.org/topic____Multimodal_imaging,Multimodal imaging,"Multisensor imaging, Multisensor imaging",,,,"Utilizing different imaging modalities in combination, Utilizing different imaging modalities in combination","http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19341, http://purl.bioontology.org/ontology/MESH/D064847"
+topic,http://edamontology.org/topic______Imaging_flow_cytometry,Imaging flow cytometry,IFC,,,,,
+topic,http://edamontology.org/topic______Medical_imaging,Medical imaging,,,,,,
+topic,http://edamontology.org/topic______Molecular_Imaging,Molecular imaging,,,,,,
+topic,http://edamontology.org/topic______Phase_Contrast_X-Ray_Imaging,Phase-contrast X-ray imaging,PCI,,,,,https://en.wikipedia.org/wiki/Phase-contrast_X-ray_imaging
