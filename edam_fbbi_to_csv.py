@@ -1,6 +1,38 @@
 import rdflib
 import pandas as pd
 
+import SPARQLWrapper as sparqlquerywrapper
+
+
+sparql = sparqlquerywrapper.SPARQLWrapper("https://query.wikidata.org/sparql")
+sparql.setQuery(
+    """SELECT ?item ?itemLabel ?exactSynonym ?definition
+WHERE {
+  ?item wdt:P279* wd:Q1074953. # microscopy
+    OPTIONAL { ?item rdfs:label ?itemLabel .
+                FILTER (LANG(?itemLabel) = "en") }
+    OPTIONAL { ?item skos:altLabel ?exactSynonym .
+                FILTER (LANG(?exactSynonym) = "en") }
+    OPTIONAL { ?item schema:description ?definition .
+                FILTER (LANG(?definition) = "en") }
+}
+"""
+)
+sparql.setReturnFormat(sparqlquerywrapper.JSON)
+results = sparql.query().convert()
+data = []
+for result in results["results"]["bindings"]:
+    data.append(
+        {
+            "id": result["item"]["value"],
+            "label": result.get("itemLabel", {}).get("value", ""),
+            "exactSynonyms": result.get("exactSynonym", {}).get("value", ""),
+            "definition": result.get("definition", {}).get("value", ""),
+        }
+    )
+wikidata_df = pd.DataFrame(data)
+wikidata_df.to_csv("output/terms/wikidata_microscopy_terms.csv", index=False, na_rep="")
+
 
 g = rdflib.Graph()
 
@@ -73,7 +105,7 @@ for row in results:
 df = pd.DataFrame(data)
 
 # None as empty string
-df.to_csv("output/terms/edam_bioimaging.csv", index=False, na_rep="")
+df.to_csv("output/terms/edam_bioimaging_terms.csv", index=False, na_rep="")
 
 fbbi_graph = rdflib.Graph()
 # download https://purl.obolibrary.org/obo/fbbi.owl
